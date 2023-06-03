@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-stream-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/example.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.3"
+  }
+}
